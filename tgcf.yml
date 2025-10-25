@@ -1,0 +1,5 @@
+forwards:
+  - source: -1001234567890     # group ID ដែលអ្នកផ្ញើវីដេអូចូល
+    dest: 987654321            # ID អ្នកប្រើ ឬ group/channel ទីតាំងគោលដៅ
+    filters:
+      media: video             # forward តែវីដេអូប៉ុណ្ណោះ
